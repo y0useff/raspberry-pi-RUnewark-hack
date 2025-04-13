@@ -1,1 +1,842 @@
-[]
+[
+    {
+        "page": 0,
+        "name": "Fender American Performer Precision Bass Rosewood...",
+        "link": "https://www.musiciansfriend.com/bass/fender-american-performer-precision-bass-rosewood-fingerboard/l44547000002000",
+        "price": 1499.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Schecter Guitar Research Charles Berthoud CB-6 6-String...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-charles-berthoud-cb-6-6-string-electric-bass/m19500000001000",
+        "price": 1599.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Reverend Thundergun Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/reverend-thundergun-electric-bass/l84891000004000",
+        "price": 1199.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Schecter Guitar Research Stiletto Studio-5 Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-studio-5-bass/513094000193000",
+        "price": 919.2,
+        "discount": 229.8
+    },
+    {
+        "page": 0,
+        "name": "Ibanez Prestige SR3506 6-String Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-ibanez-prestige-sr3506-6-string-electric-bass-guitar/m16703000001000",
+        "price": 2499.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Ernie Ball Music Man StingRay Special 5 HH 5-String Bass...",
+        "link": "https://www.musiciansfriend.com/bass/ernie-ball-music-man-stingray-special-5-hh-5-string-bass-guitar/m19328000004000",
+        "price": 2949.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Spector NS Dimension HP 5 Five-String Multi-scale Electric...",
+        "link": "https://www.musiciansfriend.com/bass/spector-ns-dimension-5-five-string-multi-scale-electric-bass/m05140000003000",
+        "price": 2099.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Fender American Vintage II 1966 Jazz Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/fender-american-vintage-ii-1966-jazz-bass/l95371000002000",
+        "price": 2499.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Sterling by Music Man StingRay Classic Ray24 Maple...",
+        "link": "https://www.musiciansfriend.com/bass/sterling-by-music-man-stingray-classic-electric-bass/l00152000001001",
+        "price": 549.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Ernie Ball Music Man Bongo 6 HH 6-String Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ernie-ball-music-man-bongo-6-hh-6-string-bass/l55364000003000",
+        "price": 3249.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "PRS Grainger 10-Top 5-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/prs-grainger-10-top-5-string-bass/m10261000001000",
+        "price": 5255.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Fender American Performer Jazz Bass Rosewood Fingerboard",
+        "link": "https://www.musiciansfriend.com/bass/fender-american-performer-jazz-bass-rosewood-fingerboard/l44531000002000",
+        "price": 1499.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Epiphone Thunderbird '60s Bass",
+        "link": "https://www.musiciansfriend.com/bass/epiphone-thunderbird-vintage-pro-bass/l44923000001000",
+        "price": 749.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Hofner Vintage '62 Violin Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/hofner-vintage-62-violin-electric-bass-guitar/j05981000000000",
+        "price": 3299.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Fender Player Jazz Bass Plus Top Limited-Edition Bass...",
+        "link": "https://www.musiciansfriend.com/bass/fender-player-jazz-bass-plus-top-limited-edition/l75293000001000",
+        "price": 729.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Squier Affinity Series Limited-Edition PJ Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/squier-affinity-series-limited-edition-pj-bass/l85324000001000",
+        "price": 329.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Sterling by Music Man StingRay Ray5HH Limited-Edition...",
+        "link": "https://www.musiciansfriend.com/bass/sterling-by-music-man-sterling-by-music-man-stingray-ray5hh-limited-edition-5-string-bass/l83400000001000",
+        "price": 449.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Fender Jaco Pastorius Fretless Jazz Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/fender-jaco-pastorius-fretless-jazz-bass-guitar/510486000064000",
+        "price": 2199.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Fender USA Geddy Lee Signature Jazz Bass",
+        "link": "https://www.musiciansfriend.com/bass/fender-usa-geddy-lee-signature-jazz-bass/j21955000001001",
+        "price": 2299.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Rickenbacker 4003W",
+        "link": "https://www.musiciansfriend.com/bass/rickenbacker-4003w/j06714000001000",
+        "price": 0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Lakland Skyline 55-01 5-String Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/lakland-skyline-55-01-5-string-bass-guitar/517702000010063",
+        "price": 1144.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Schecter Guitar Research Stiletto Custom-4 Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-custom-4-bass/513049000091000",
+        "price": 799.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Fender American Professional II Precision Bass Rosewood...",
+        "link": "https://www.musiciansfriend.com/bass/fender-american-professional-ii-precision-bass-rosewood-fingerboard/l78032000003000",
+        "price": 1799.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Ernie Ball Music Man StingRay Special H Electric Bass...",
+        "link": "https://www.musiciansfriend.com/bass/ernie-ball-music-man-stingray-special-h-electric-bass/m03040000001000",
+        "price": 2699.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Jackson JS Series Concert Bass JS3VQ 5-String",
+        "link": "https://www.musiciansfriend.com/bass/jackson-js-series-concert-bass-js3vq-5-string/l58301000002000",
+        "price": 423.99,
+        "discount": 26.0
+    },
+    {
+        "page": 0,
+        "name": "Ernie Ball Music Man DarkRay 4-String Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ernie-ball-music-man-darkray-4-string-electric-bass-guitar/l86805000004000",
+        "price": 2949.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Cort Space 5 Headless 5-String Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/cort-space-5-headless-5-string-electric-bass/m17210000001000",
+        "price": 799.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Gibson Non-Reverse Thunderbird Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/gibson-non-reverse-thunderbird-bass/l83980000002000",
+        "price": 2199.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Fender American Ultra II Meteora Bass Ebony Fingerboard",
+        "link": "https://www.musiciansfriend.com/bass/fender-american-ultra-ii-meteora-bass-ebony-fingerboard/m12939000002000",
+        "price": 2299.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Rickenbacker 4003 Bass",
+        "link": "https://www.musiciansfriend.com/bass/rickenbacker-4003-bass/513600000204000",
+        "price": 0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Epiphone Jack Casady Bass",
+        "link": "https://www.musiciansfriend.com/bass/epiphone-jack-casady-bass/518245000002000",
+        "price": 639.2,
+        "discount": 159.8
+    },
+    {
+        "page": 0,
+        "name": "Schecter Guitar Research Stiletto Extreme-4 Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-extreme-4-bass/528006000127000",
+        "price": 599.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Dean Custom Zone 4-String Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/dean-custom-zone-4-string-bass-guitar/512934000506000",
+        "price": 279.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Schecter Guitar Research Stiletto Studio 6 Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-studio-6-bass/513086000011000",
+        "price": 1199.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Mitchell MB100 Short-Scale Solidbody Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/mitchell-mb100-short-scale-solid-body-electric-bass/l57150000002000",
+        "price": 175.99,
+        "discount": 4.0
+    },
+    {
+        "page": 0,
+        "name": "Lakland Skyline Deluxe 55-02 5-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/lakland-skyline-deluxe-55-02-5-string-bass/517707000010063",
+        "price": 1832.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Lakland Skyline 55-02 5-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/lakland-skyline-55-02-5-string-bass/517703000001063",
+        "price": 1752.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Yamaha TRBX305 5-String Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/yamaha-trbx305-5-string-electric-bass/j01917000005001",
+        "price": 429.99,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Schecter Guitar Research Omen Extreme-5 5-String Bass...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-omen-extreme-5-5-string-bass-guitar/520227000127000",
+        "price": 649.0,
+        "discount": 0
+    },
+    {
+        "page": 0,
+        "name": "Schecter Guitar Research Stiletto Custom 6 6-String Bass...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-custom-6-6-string-bass-guitar/513840000091000",
+        "price": 949.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Epiphone Jack Casady Bass",
+        "link": "https://www.musiciansfriend.com/bass/epiphone-jack-casady-bass/518245000002000",
+        "price": 639.2,
+        "discount": 159.8
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Stiletto Extreme-4 Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-extreme-4-bass/528006000127000",
+        "price": 599.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Dean Custom Zone 4-String Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/dean-custom-zone-4-string-bass-guitar/512934000506000",
+        "price": 279.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Stiletto Studio 6 Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-studio-6-bass/513086000011000",
+        "price": 1199.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Mitchell MB100 Short-Scale Solidbody Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/mitchell-mb100-short-scale-solid-body-electric-bass/l57150000002000",
+        "price": 175.99,
+        "discount": 4.0
+    },
+    {
+        "page": 1,
+        "name": "Lakland Skyline Deluxe 55-02 5-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/lakland-skyline-deluxe-55-02-5-string-bass/517707000010063",
+        "price": 1832.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Lakland Skyline 55-02 5-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/lakland-skyline-55-02-5-string-bass/517703000001063",
+        "price": 1752.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Yamaha TRBX305 5-String Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/yamaha-trbx305-5-string-electric-bass/j01917000005001",
+        "price": 429.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Omen Extreme-5 5-String Bass...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-omen-extreme-5-5-string-bass-guitar/520227000127000",
+        "price": 649.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Stiletto Custom 6 6-String Bass...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-custom-6-6-string-bass-guitar/513840000091000",
+        "price": 949.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Fender CB-60SCE Acoustic-Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/fender-cb-60sce-acoustic-electric-bass-guitar/l27717000003000",
+        "price": 329.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Ibanez SR250 Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-sr250-electric-bass/h79293000002000",
+        "price": 349.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Omen Extreme-4 Electric Bass...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-omen-extreme-4-electric-bass-guitar/h70379000001000",
+        "price": 599.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Stiletto Studio-4 Fretless Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-studio-4-fretless-bass/516753000193000",
+        "price": 1149.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Yamaha BB735A 5-String Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/yamaha-bb735a-5-string-electric-bass/l26481000001000",
+        "price": 869.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Lakland Skyline 44-02 4-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/lakland-skyline-44-02-4-string-bass/517720000010069",
+        "price": 1719.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Ibanez Mezzo SRMD200 Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-mezzo-srmd200-electric-bass/l44911000001000",
+        "price": 329.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Squier Mini Precision Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/squier-mini-precision-bass/l72267000001000",
+        "price": 199.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Ibanez SR300E Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-sr300e-4-string-electric-bass/j27307000003000",
+        "price": 349.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Sterling by Music Man StingRay Ray34HH Spalted Maple Top...",
+        "link": "https://www.musiciansfriend.com/bass/sterling-by-music-man-stingray-ray34-hh-roasted-maple-neck-spalted-maple-electric-bass/l79630000001000",
+        "price": 691.19,
+        "discount": 388.8
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Stiletto Studio-8 Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-studio-8-bass/516756000193000",
+        "price": 1249.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Yamaha BB234 Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/yamaha-bb234-electric-bass/l00431000002001",
+        "price": 309.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Riot-5 Session 5-String Electric...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-riot-5-session-5-string-electric-bass-guitar/j05308000001000",
+        "price": 949.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Ibanez SR370EF 4-String Fretless Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-sr370ef-4-string-fretless-electric-bass/j31283000001000",
+        "price": 429.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Sterling by Music Man SB4 4-String Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/sterling-by-music-man-sb4-4-string-electric-bass-guitar/m14166000002000",
+        "price": 255.99,
+        "discount": 64.0
+    },
+    {
+        "page": 1,
+        "name": "Jackson Limited-Edition JS Series JS1M Concert Bass",
+        "link": "https://www.musiciansfriend.com/bass/jackson-limited-edition-js-series-concert-bass-js1m/l78500000001000",
+        "price": 219.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Yamaha BB434 Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/yamaha-bb434-electric-bass/l04932000002000",
+        "price": 539.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Ibanez SR405EQM Quilted Maple 5-String Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-sr405eqm-quilted-maple-5-string-electric-bass-guitar/j27310000004000",
+        "price": 529.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Stiletto Studio-5 Left-Handed Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-studio-5-left-handed-bass/516754000193000",
+        "price": 1199.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Hellraiser Extreme-5 Electric Bass...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-hellraiser-extreme-5-electric-bass-guitar/h81394000002000",
+        "price": 1079.2,
+        "discount": 269.8
+    },
+    {
+        "page": 1,
+        "name": "ESP LTD B-204SM Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/esp-ltd-b-204sm-electric-bass-guitar/h72305000001000",
+        "price": 599.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Sterling by Music Man StingRay Ray4HH Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/sterling-by-music-man-sub-stingray-hh-electric-bass/l79564000002000",
+        "price": 429.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Fender Adam Clayton Jazz Bass Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/fender-adam-clayton-jazz-bass-electric-bass-guitar/j15259000001000",
+        "price": 2199.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Yamaha TRBX504 4-String Premium Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/yamaha-trbx504-4-string-premium-electric-bass/j01918000003001",
+        "price": 479.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Jackson X Series Concert CBXNT DX IV Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/jackson-x-series-concert-bass-cbxnt-dx-iv/l81759000002000",
+        "price": 479.99,
+        "discount": 120.0
+    },
+    {
+        "page": 1,
+        "name": "Schecter Guitar Research Limited-Edition Stiletto Studio-4...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-limited-edition-stiletto-studio-4-bass/k46973000001000",
+        "price": 671.36,
+        "discount": 377.64
+    },
+    {
+        "page": 1,
+        "name": "Squier Sonic Bronco Limited-Edition Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/squier-sonic-bronco-bass-limited-edition/l99891000001000",
+        "price": 229.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "SIRE Marcus Miller P7 Alder 5-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/sire-marcus-miller-p7-alder-5-string-bass/l53060000001000",
+        "price": 753.0,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Ibanez GSR205 5-String Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-gsr205-5-string-electric-bass/j03679000001001",
+        "price": 279.99,
+        "discount": 0
+    },
+    {
+        "page": 1,
+        "name": "Fender Nate Mendel Precision Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/fender-nate-mendel-precision-bass/h90345000001001",
+        "price": 1119.99,
+        "discount": 280.0
+    },
+    {
+        "page": 2,
+        "name": "ESP LTD B-204SM Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/esp-ltd-b-204sm-electric-bass-guitar/h72305000001000",
+        "price": 599.0,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Sterling by Music Man StingRay Ray4HH Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/sterling-by-music-man-sub-stingray-hh-electric-bass/l79564000002000",
+        "price": 429.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Fender Adam Clayton Jazz Bass Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/fender-adam-clayton-jazz-bass-electric-bass-guitar/j15259000001000",
+        "price": 2199.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Yamaha TRBX504 4-String Premium Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/yamaha-trbx504-4-string-premium-electric-bass/j01918000003001",
+        "price": 479.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Jackson X Series Concert CBXNT DX IV Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/jackson-x-series-concert-bass-cbxnt-dx-iv/l81759000002000",
+        "price": 479.99,
+        "discount": 120.0
+    },
+    {
+        "page": 2,
+        "name": "Schecter Guitar Research Limited-Edition Stiletto Studio-4...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-limited-edition-stiletto-studio-4-bass/k46973000001000",
+        "price": 671.36,
+        "discount": 377.64
+    },
+    {
+        "page": 2,
+        "name": "Squier Sonic Bronco Limited-Edition Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/squier-sonic-bronco-bass-limited-edition/l99891000001000",
+        "price": 229.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "SIRE Marcus Miller P7 Alder 5-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/sire-marcus-miller-p7-alder-5-string-bass/l53060000001000",
+        "price": 753.0,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Ibanez GSR205 5-String Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-gsr205-5-string-electric-bass/j03679000001001",
+        "price": 279.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Fender Nate Mendel Precision Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/fender-nate-mendel-precision-bass/h90345000001001",
+        "price": 1119.99,
+        "discount": 280.0
+    },
+    {
+        "page": 2,
+        "name": "Fender Steve Harris Signature Precision Bass Electric Bass...",
+        "link": "https://www.musiciansfriend.com/bass/fender-steve-harris-signature-precision-bass-electric-bass-guitar/j18980000001000",
+        "price": 1349.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Squier Classic Vibe '60s Jazz Bass",
+        "link": "https://www.musiciansfriend.com/bass/squier-classic-vibe-60s-jazz-bass/l48187000001000",
+        "price": 449.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Schecter Guitar Research Stiletto Extreme-5 5-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-stiletto-extreme-5-5-string-bass/h99416000001000",
+        "price": 649.0,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Sterling by Music Man StingRay RAY5 5-String Electric Bass...",
+        "link": "https://www.musiciansfriend.com/bass/sterling-by-music-man-stingray-ray-ray5-rosewood-fingerboard-5-string-electric-bass/l00359000001000",
+        "price": 399.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Schecter Guitar Research Model-T Session Electric Bass...",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-model-t-session-electric-bass-guitar/j19259000001000",
+        "price": 791.12,
+        "discount": 107.88
+    },
+    {
+        "page": 2,
+        "name": "Ibanez GSR200BL 4-String Left-Handed Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-gsr200bl-4-string-left-handed-electric-bass/j38074000001000",
+        "price": 279.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Ibanez GSR205SM 5-String Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-gsr205sm-5-string-electric-bass/j03678000001001",
+        "price": 307.99,
+        "discount": 42.0
+    },
+    {
+        "page": 2,
+        "name": "Jackson JS Series Concert Bass Minion JS1X Short-Scale...",
+        "link": "https://www.musiciansfriend.com/bass/jackson-js-series-concert-bass-minion-js1x-short-scale-guitar/m03546000001000",
+        "price": 209.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Yamaha Billy Sheehan Signature Attitude 3 Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/yamaha-billy-sheehan-signature-attitude-3-electric-bass/h75903000002000",
+        "price": 3799.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Squier Classic Vibe '70s Precision Bass Maple Fingerboard",
+        "link": "https://www.musiciansfriend.com/bass/squier-classic-vibe-70s-precision-bass-maple-fingerboard/l58005000002000",
+        "price": 449.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Jackson JS Series Spectra Bass JS23",
+        "link": "https://www.musiciansfriend.com/bass/jackson-js-series-spectra-bass-js23/l73114000001000",
+        "price": 259.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Guild Jumbo B-240E Acoustic-Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/guild-jumbo-b-240e-acoustic-electric-bass-guitar/l54826000001000",
+        "price": 549.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Squier Classic Vibe '60s Fretless Jazz Bass",
+        "link": "https://www.musiciansfriend.com/bass/squier-classic-vibe-60s-fretless-jazz-bass/l48202000001000",
+        "price": 449.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Gold Tone 23\" Scale Fretless Acoustic-Electric MicroBass",
+        "link": "https://www.musiciansfriend.com/bass/gold-tone-23-scale-fretless-acoustic-electric-microbass/j10322000001000",
+        "price": 599.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Ibanez K5 Fieldy Signature 5-String Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-k5-fieldy-signature-5-string-electric-bass-guitar/h70433000001000",
+        "price": 1099.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Ernie Ball Music Man StingRay5 Special HH 5-String Electric...",
+        "link": "https://www.musiciansfriend.com/bass/ernie-ball-music-man-stingray5-special-hh-5-string-electric-bass/l97752000020000",
+        "price": 2359.2,
+        "discount": 489.8
+    },
+    {
+        "page": 2,
+        "name": "Hofner Vintage '62 Violin Left-Handed Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/hofner-vintage-62-violin-left-handed-electric-bass-guitar/j05982000000000",
+        "price": 3299.0,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Sterling by Music Man StingRay Ray4HH Maple Fingerboard...",
+        "link": "https://www.musiciansfriend.com/bass/sterling-by-music-man-sub-stingray-hh-electric-bass/l71833000001000",
+        "price": 429.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Fender Mike Dirnt Road Worn Precision Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/fender-mike-dirnt-roadworn-precision-bass/j04435000002001",
+        "price": 1499.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Fender American Professional Jazz Bass Maple Fingerboard",
+        "link": "https://www.musiciansfriend.com/bass/fender-american-professional-jazz-bass-maple-fingerboard/j46147000003000",
+        "price": 1549.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Schecter Guitar Research P-4 4-String Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/schecter-guitar-research-p-4-4-string-electric-bass/l82487000001001",
+        "price": 899.0,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Guild B-140E Westerly Collection Jumbo Acoustic-Electric...",
+        "link": "https://www.musiciansfriend.com/bass/guild-b-140e-westerly-collection-jumbo-acoustic-electric-bass-guitar/l78789000001000",
+        "price": 719.99,
+        "discount": 180.0
+    },
+    {
+        "page": 2,
+        "name": "Fender Kingman V2 Acoustic-Electric Bass",
+        "link": "https://www.musiciansfriend.com/bass/fender-kingman-v2-acoustic-electric-bass/l37874000001000",
+        "price": 549.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Ibanez SR306EB 6-String Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-sr306eb-6-string-electric-bass-guitar/j31062000001000",
+        "price": 449.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Squier Classic Vibe '50s Precision Bass Maple Fingerboard",
+        "link": "https://www.musiciansfriend.com/bass/squier-classic-vibe-50s-precision-bass-maple-fingerboard/l58009000001000",
+        "price": 449.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Jackson JS Series Kelly Bird JS3Q Bass",
+        "link": "https://www.musiciansfriend.com/bass/jackson-js-series-kelly-bird-js3q-bass/l58296000001000",
+        "price": 399.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Squier Sonic Precision Bass Limited-Edition",
+        "link": "https://www.musiciansfriend.com/bass/squier-sonic-precision-bass-limited-edition/l99890000001000",
+        "price": 239.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Ibanez BTB747 7-String Electric Bass Guitar",
+        "link": "https://www.musiciansfriend.com/bass/ibanez-btb747-7-string-electric-bass-guitar/j82810000001000",
+        "price": 1049.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Fender Mike Dirnt Road Worn Precision Bass",
+        "link": "https://www.musiciansfriend.com/bass/fender-mike-dirnt-roadworn-precision-bass/j04437000001001",
+        "price": 1499.99,
+        "discount": 0
+    },
+    {
+        "page": 2,
+        "name": "Dean Edge 1 6-String Bass",
+        "link": "https://www.musiciansfriend.com/bass/dean-edge-1-6-string-bass/l48290000001000",
+        "price": 349.0,
+        "discount": 0
+    }
+]
