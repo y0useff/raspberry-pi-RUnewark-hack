@@ -115,7 +115,7 @@ def scrape():
         data = {
             "token": "akcbutkgdd49tab1kwzjtww3rxispq",
             "user": "uqmfguy4jn59b2vauxjwkqru152jv1",
-            "message": f'Scraping all done! We found some great deals for you!"!'
+            "message": f'Scraping all done! We found some great deals for you!'
         }
         response = requests.post(url, data=data)
 
